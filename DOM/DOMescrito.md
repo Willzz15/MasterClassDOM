@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=UftSB4DaRU4&list=PLWwq4PUrlXk44NyL9vlx0B78KAxhm7
 
 Para percorrer uma NodeList podemos usar o _.forEach()_ que executara para cada interação dado código.
 
-# PRIMEIRO PASSO SELECIONAR O ELEMENTO.
+# PRIMEIRO PASSO, SELECIONAR O ELEMENTO.
 
 # Para a Busca ou seleção de elemento(s) e uma NodeList(Varios elementos) \*\*\*
 
